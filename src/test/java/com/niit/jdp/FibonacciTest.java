@@ -25,6 +25,7 @@ public class FibonacciTest {
 
     @AfterEach
     void tearDown() {
+
         fibonacci = null;
     }
 
